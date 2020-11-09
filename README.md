@@ -4,7 +4,7 @@
 
 ![Thumbnail](thumbnail.png)
 
-A Movie Library made with ReactJS using The Movie Database API
+A Movie Library made with ReactJS using [The Movie Database API] (https://www.themoviedb.org/) 
 
 
 ## Built With
