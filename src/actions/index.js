@@ -60,7 +60,7 @@ export const getMoviesGenre = (name, page, sort) => async (
     const genreId = genres
       .filter(el => el.name === name)
       .map(el => el.id)
-      .join('');
+      .join(''); //join
     const res = await tmdbAPI.get('/discover/movie', {
       params: {
         with_genres: genreId,
