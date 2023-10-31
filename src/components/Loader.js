@@ -14,7 +14,7 @@ const Loading = styled.div`
   width: 3rem;
   height: 3rem;
   background-color: var(--color-primary-dark);
-  box-shadow: -5rem 0rem 0rem var(--color-primary);
+  box-shadow: -5rem 0rem 0rem var(--color-primary); //  large, centred
   border-radius: 50%;
   -webkit-animation: circle_classic 1s ease-in-out infinite alternate;
   -moz-animation: circle_classic 1s ease-in-out infinite alternate;
